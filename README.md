@@ -1,82 +1,58 @@
-Bitcoin Core integration/staging tree
-=====================================
+# Mining Pool Setup Service for Joulecoin Coin [sha256] or Any Other Coins of Your Choice or Troubleshoot Existing Pool
 
-[![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
+### Contact Now & Let Us Get it Done For You Within Few Hours
 
-https://bitcoincore.org
+- [x]   **Email:**  onlinebuybiz@gmail.com
 
-What is Bitcoin?
+- [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
+
+- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
+
+- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
+
+- [x] **QQ:** 256447418 
+
+- [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
+
+Build and Install Joulecoin (XJO) Cryptocurrency Altcoins Mining Pool for Algorithm SHA256 On Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin Core is the name of open source
-software which enables the use of this currency.
+We provide altcoin cryptocurrencies mining pool installation and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
 
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+- Installation of Joulecoin wallets/daemon and other coins of your choice for mining purpose
+- Setting up, configuring, administer and prepare server for yiiimp mining software to enable Joulecoin mining
+- Whether you want a solo, private mining pool for personal mining or a mining pool to share with your friends or public
+- You can set zero fees or even charge a fees to your miners
+- You can use your own equipment ot mine such as CPUs, GPU rigs, ASIC machines or even pool can be made compatiable for **Nicehash** mining if you want to use their hashpower.
+- It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
+- We do privide maintence service although not much maintence is needed after pool is setup, if you do not touch any exisitng settings etc.
+- Configuration, troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, custom difficulty, vardiff, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
+- Optimize and Tweak server and yiimp software for improved performance.
+- Any special features or customization also possible at additional cost.
 
-License
--------
+How Does it Work?
+----------
+You will be required to get a VPS or cloud service like AWS instance etc or a server that can be obtained from several hosts online or if you have your very own server at your premises that can also be used to setup pool. For detailed minimum specifications and operating system that is usually Ubuntu/Linux, you need to contact us as it depends on several factors those can only be determined after discussing your mining needs.
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
-information or see https://opensource.org/licenses/MIT.
+We can work remotely using **TeamViewer** or **AnyDesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you. To get a price quote please contact us using above given contact details, we can discuss in real time.
 
-Development Process
--------------------
 
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Bitcoin Core.
+## [Other Supported Algorithms Pool Can Work With](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)
+![yiimp algos](https://www.sohowa.com/images/yiimpalgo.JPG)
+-----------
 
-The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
+### Just a sample frontend, your pool will be similar to it but of course with your choice of coins and algos
 
-The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
+![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
 
-Developer IRC can be found on Freenode at #bitcoin-core-dev.
+Another sample page
+![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
 
-Testing
--------
+Admin side 
+![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+Admin side 
+![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
 
-### Automated Testing
-
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/test), written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/test) are installed) with: `test/functional/test_runner.py`
-
-The Travis CI system makes sure that every pull request is built for Windows, Linux, and OS X, and that unit/sanity tests are run automatically.
-
-### Manual Quality Assurance (QA) Testing
-
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
-
-Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+Admin side 
+![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
